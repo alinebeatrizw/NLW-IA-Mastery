@@ -1,6 +1,7 @@
-import { OpenAI } from 'openai'
-import '../../node_modules/dotenv/config'
+import 'dotenv/config'
+
+import { OpenAI } from 'openai';
 
 export const openai = new OpenAI({
-    apiKey: process.env.OPENAI_KEY
-})
+    apiKey: process.env.OpenAI_KEY,
+});
