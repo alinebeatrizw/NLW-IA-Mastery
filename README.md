@@ -11,7 +11,7 @@
 
 Aplicação desenvolvida no NLW IA
 
-#Funcionalidades:
+##Funcionalidades:
 
 Realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 
