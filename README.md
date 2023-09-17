@@ -10,9 +10,9 @@ Podem ser inseriadas novas funcionalidades facilmente, basta criar novos prompts
 ### 🎲 Rodando o projeto
 
 ```bash
-$ Crie um arquivo na pasta api chamado .env
-$ Configure a variavel DATABASE_URL
-$ Configure a variavel OPENAI_KEY, chave de API da OpenAI
+ Crie um arquivo na pasta api chamado .env
+ Configure a variavel DATABASE_URL
+ Configure a variavel OPENAI_KEY, chave de API da OpenAI
 ```
 
 ```bash
