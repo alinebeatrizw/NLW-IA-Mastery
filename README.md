@@ -8,9 +8,11 @@ Realizar upload de videos e por meio de IA, criar automaticamente títulos chama
 
 ### 🎲 Rodando o projeto
 
-# Crie um arquivo na pasta api chamado .env
-# Configure a variavel DATABASE_URL
-# Configure a variavel OPENAI_KEY, chave de API da OpenAI
+```bash
+$ Crie um arquivo na pasta api chamado .env
+$ Configure a variavel DATABASE_URL
+$ Configure a variavel OPENAI_KEY, chave de API da OpenAI
+```
 
 ```bash
 # Clone este repositório
@@ -53,7 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🕹️ Resultados
 
-  <img src="https://github.com/alinebeatrizw/NLW-IA-Mastery/blob/main/1694828406528.jpg" width="600px" alt="Imagem do sistema" title="Layout inicial">
+  <img src="https://github.com/alinebeatrizw/NLW-IA-Mastery/blob/main/1694828406528.jpg" width="800px" alt="Imagem do sistema" title="Layout inicial">
 
 
 <p align="center">
