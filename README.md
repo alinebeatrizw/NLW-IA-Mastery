@@ -5,6 +5,7 @@ Aplicação desenvolvida no NLW IA
 ## 🌟 Funcionalidades
 
 Realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+Podem ser inseriadas novas funcionalidades facilmente, basta criar novos prompts no banco de dados e atualizar a seed na pasta do prisma.
 
 ### 🎲 Rodando o projeto
 
